@@ -1,0 +1,21 @@
+
+1. eval
+2. assert
+3. create_function
+4. call_user_func
+5. call_user_func_array
+6. array_map
+7. ob_start
+8. register_shutdown_function
+9. set_error_handler
+10. call_user_method
+11. call_user_method_array
+12. uasort
+13. uksort
+14. array_filter
+15. array_reduce
+16. array_walk
+17. preg_replace
+18. preg_replace_callback
+19. stream_filter_register
+
